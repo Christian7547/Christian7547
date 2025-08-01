@@ -11,7 +11,7 @@ I'm also proficient in data structures and algorithms, object-oriented programmi
 
 <p align="center">
 
-- 📋 Languajes: 
+- 📋 Languages: 
 
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
