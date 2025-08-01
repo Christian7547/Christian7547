@@ -1,10 +1,10 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-I'm Christian Elias Gonzales Encinas, a passionate self-taught web developer working in backend programming.
-I'm passionate about solving problems.
-I have experience in backend development and am also passionate about competitive programming.
-I'm also proficient in data structures and algorithms, object-oriented programming, design patterns, and database management systems.
+    I'm Christian Elias Gonzales Encinas, a passionate self-taught web developer working in backend programming.
+    I'm passionate about solving problems.
+    I have experience in backend development and am also passionate about competitive programming.
+    I'm also proficient in data structures and algorithms, object-oriented programming, design patterns, and database management systems.
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -63,7 +63,8 @@ I'm also proficient in data structures and algorithms, object-oriented programmi
 
 <p align="center">
 <a href="https://github.com/Christian7547">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christian7547&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<img align="center" 
+src="https://github-readme-stats.vercel.app/api?username=Christian7547&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
  
 <a href="https://github.com/Christian7547">
