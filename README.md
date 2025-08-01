@@ -74,7 +74,7 @@ I'm also proficient in data structures and algorithms, object-oriented programmi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-    <a href="https://github.com/Christian7547"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian754&theme=tokyonight&hide_border=true"  width="520" alt="Christian7547"/></a>
+    <a href="https://github.com/Christian7547"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian7547&theme=tokyonight&hide_border=true"  width="520" alt="Christian7547"/></a>
     <a href="https://github.com/Christian7547"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christian7547&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Christian7547"/></a>
 </p>
 
