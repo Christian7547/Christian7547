@@ -1,7 +1,7 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-I'm Christian Elías Gonzales Encinas, a passionate self-taught web developer working in backend programming.
+I'm Christian Elias Gonzales Encinas, a passionate self-taught web developer working in backend programming.
 I'm passionate about solving problems.
 I have experience in backend development and am also passionate about competitive programming.
 I'm also proficient in data structures and algorithms, object-oriented programming, design patterns, and database management systems.
