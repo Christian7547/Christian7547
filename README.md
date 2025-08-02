@@ -59,10 +59,10 @@
 
 <p align="center">
     <a href="https://github.com/Christian7547">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christian7547&show_icons=true&count_private=true&include_all_commits=true&line_height=20&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christian7547&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
     </a>
     <a href="https://github.com/Christian7547">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Christian7547&theme=blueberry" width="380"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Christian7547&theme=tokyonight" />
     </a>
 </p>
 
@@ -70,10 +70,10 @@
 
 <p align="center">
     <a href="https://github.com/Christian7547">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian7547&theme=tokyonight&hide_border=true"  width="520" alt="Christian7547"/>
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian7547&theme=tokyonight" alt="Christian7547"/>
     </a>
     <a href="https://github.com/Christian7547">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christian7547&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Christian7547"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian7547&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Christian7547" />
     </a>
 </p>
 
